@@ -40,5 +40,5 @@ jobs:
              
       - name: Run javascript file
         run: |
-             node app.js 
+             node app.js
              
